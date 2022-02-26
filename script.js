@@ -106,7 +106,7 @@ const enemies = {
     downTroops(){
         enemies.troops.forEach(row =>{
             row.forEach(col =>{
-                col.y += 50
+                col.y += 15
             });
         });
     }
