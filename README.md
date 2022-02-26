@@ -2,8 +2,8 @@
 Made with Canvas
 
 Move with: 
-Left arrow (←): &larr;
-Right arrow (→): &rarr;
+Left arrow (←)
+Right arrow (→)
 
 shoot with:
 Space bar ( [----] )
