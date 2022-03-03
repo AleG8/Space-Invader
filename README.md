@@ -1,5 +1,5 @@
 # Space-Invader
-Made with Canvas
+Made with Canvas. Play here: https://space-invader-simulator.netlify.app
 
 Move with: 
 Left arrow (←)
